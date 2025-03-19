@@ -2,7 +2,7 @@
   "name": "manhuaguiapi",
   "module": "src/index.ts",
   "type": "module",
-  "private": true,
+  "private": false,
   "devDependencies": {
     "@types/bun": "latest"
   },
