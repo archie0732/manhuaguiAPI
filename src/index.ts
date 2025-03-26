@@ -1,3 +1,2 @@
-import { fetchManga } from "./class";
-
-export default fetchManga
+export { fetchManga } from "./class";
+export { searchManhuByKeyWord as ArchieSearchManhuByKeyWord } from "./class/search";
